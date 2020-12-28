@@ -18,3 +18,5 @@ Function provided :-
 10) No need to create tables while using new database. All tables are created automatically when the software is started for the first time.
 
 Technologies used: Java, PostgreSQL database for offline storage and Heroku PostgreSQL for online storage.
+
+To run the project open it in netbeans and run the login.java file.
